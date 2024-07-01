@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+}
+header {
+    display: flex;
+}
+.logo {
+    display: flex;
+    height: 100%;
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: center;
+    gap: 20px;
+}
+li {
+    margin-right: 20px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.button {
+    background-color: #f0390f;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 25px 10px 25px;
+    margin-top: 10px ;
+}
+.first {
+    display: flex;
+}
+.icon {
+    margin: 140px;
+}
+h1 {
+    font-size: 50px;
+}
+.banner {
+    display: flex;
+    height: 40rem;
+    width: 40rem;
+    margin-left: 5%;
+}
+.heading h1 {
+    font-size: 35px;
+    text-align: center;
+    margin-top: 100px;
+}
+.heading p {
+    font-size: 14px;
+    text-align: center;
+}
+.third {
+    display: flex;
+    justify-content: center;
+}
+#class1 {
+    background-color: #f0390f;
+    color: white;
+    border-radius: 10px;
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    margin-top: 40px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+#class1 p {
+    font-size: 15px;
+}
+.img {
+    margin-top: 40px;
+}
+#class2 {
+    background-color: #3e0bce;
+    color: white;
+    border-radius: 10px;
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    margin-top: 40px;
+}
+#class2 p {
+    font-size: 15px;
+}
+.more h5 {
+    margin-top: 20%;
+    color: black;
+    text-align: left;
+}
+.fourth {
+    background-image: url('about_bg.jpg');
+    margin-top: 10%;
+    color: white;
+    display: flex;
+}
+.school h1 {
+    font-size: 35px;
+    margin-left: 35%;
+    margin-top: 45%;
+}
+.school p {
+    font-size: 15px;
+    margin-left: 35%;
+    width: 100%;
+}
+#about1 img {
+    height: 75%;
+    margin-top: 150px;
+    margin-left: 25%;
+    width: 70%;
+}
